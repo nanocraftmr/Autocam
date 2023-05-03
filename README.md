@@ -1,3 +1,5 @@
+># [New Repo!](https://github.com/erfinden/autocam)
+
 # Autocam
 Autocam is a script for Raspberry Pi that captures an image from the camera every 30 minutes and saves it to a USB drive. It also backs up the images to the USB drive and to the desktop folder if the USB drive is not found.
 ># [In Depth Guide](https://github.com/nanocraftmr/Autocam/blob/main/manuel.txt)
